@@ -1,4 +1,4 @@
 # best-repo-ever
 Trailhead Git/Github intro
 Branch testing
-Conflict testtest
+Conflict testing branch 1
